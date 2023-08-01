@@ -6,4 +6,6 @@ function addUp(num) {
     }
     console.log(sum)
 }
+
 addUp(4);
+
