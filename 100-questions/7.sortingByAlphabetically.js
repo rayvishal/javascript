@@ -12,5 +12,5 @@ function sort(words) {
     const arr = words.split(',')
     arr.sort()
     console.log(arr.join())
-}
-sort("without,hello,bag,world")
+}  
+sort("without,hello,bag,world")  
